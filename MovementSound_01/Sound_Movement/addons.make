@@ -1,0 +1,7 @@
+ofx3DModelLoader
+ofxGui
+ofxKinect
+ofxVectorGraphics
+ofxXmlSettings
+ofxAnimatablePoint
+ofxUI
